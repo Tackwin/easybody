@@ -1,0 +1,3 @@
+/home/tackwin/Local_Code/easybody/CMakeFiles/rebuild_cache.dir
+/home/tackwin/Local_Code/easybody/CMakeFiles/edit_cache.dir
+/home/tackwin/Local_Code/easybody/CMakeFiles/easybody.dir
